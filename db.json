@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 999,
+      "category": "clothing",
+      "title": "Uniqlo",
+      "description": "Makes you look stunning",
+      "location": "Taipei",
+      "date": "2022-07-29",
+      "time": "22:25",
+      "organizer": "Clark Kent"
     }
   ]
 }
